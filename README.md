@@ -11,6 +11,7 @@ Acousticness varies widely across genres. Acoustic‑heavy genres stand out clea
 
 ## ⭐ Popularity in Artists
 Artist popularity shows substantial variation, highlighting the importance of audience segmentation and trend monitoring.
+<img width="634" height="311" alt="Screenshot 2026-02-10 104001" src="https://github.com/user-attachments/assets/78b46c63-3393-45d3-b985-430ba0c3a615" />
 
 ## 🔉 Loudness in Genres
 Classical, Opera, and Soundtrack genres show the lowest loudness levels due to their dynamic range and traditional production styles. Jazz, World, and Folk trend moderately higher.
@@ -20,7 +21,7 @@ Comedy and Opera exhibit the highest liveness values, reflecting frequent live�
 
 ## ⏱️ Total Duration per Artist
 Classical composers such as Verdi, Puccini, Mozart, and Beethoven dominate total duration because of long‑form compositions. Modern artists like Drake show shorter cumulative durations, aligning with contemporary track structures.
-<img width="634" height="311" alt="Screenshot 2026-02-10 104001" src="https://github.com/user-attachments/assets/78b46c63-3393-45d3-b985-430ba0c3a615" />
+
 
 💃 Danceability by Artist
 Children’s and pop‑oriented artists (e.g., Minions Children’s Music, Juice Music) score highest in danceability. Classical composers sit at the lower end, consistent with their rhythmic complexity.
