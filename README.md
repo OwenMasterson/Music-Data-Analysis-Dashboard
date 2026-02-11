@@ -56,5 +56,5 @@ The dataset is based on Spotify audio features and metadata. It includes metrics
 
 The dashboards demonstrate how measurable audio attributes can inform data‑driven decisions in music‑focused projects.
 
-Link to dashboard 1 : https://public.tableau.com/app/profile/owen.masterson/viz/OwenMastersonTableauSpotifyMusic/Dashboard2?publish=yes
-Link to dashboard 2 : https://public.tableau.com/app/profile/owen.masterson/viz/OwenMastersonTableauSpotifyMusic/Dashboard1?publish=yes
+Link to dashboard 1 : https://public.tableau.com/app/profile/owen.masterson/viz/OwenMastersonTableauSpotifyMusic/Dashboard1?publish=yes
+Link to dashboard 2 : https://public.tableau.com/app/profile/owen.masterson/viz/OwenMastersonTableauSpotifyMusic/Dashboard2?publish=yes
