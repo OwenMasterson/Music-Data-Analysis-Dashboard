@@ -1,4 +1,6 @@
 # Music-Data-Analysis-Dashboard
+## Project Overview
+This project explores Spotify music data to understand how genres and artists differ across key audio features such as popularity, acousticness, loudness, liveness, and danceability. Using Tableau, I created interactive dashboards to uncover trends that support recommendation systems, playlist strategy, and audience segmentation.
 # Executive Summary
 The analysis highlights clear distinctions in how genres and artists perform across multiple audio metrics. Popularity, acousticness, loudness, and liveness vary significantly between genres, while artists show strong differences in total track duration, danceability, and listener engagement. These insights can support recommendation systems, content strategy, and broader music‑industry decision‑making.
 
@@ -39,6 +41,18 @@ Audio‑feature‑driven recommendation models
 Playlist design and content curation
 
 Market trend identification
+
+## Future Improvements
+- Add predictive modelling for genre recommendation.
+- Integrate Python analysis for deeper statistical insights.
+- Expand dashboards with user‑behavior metrics.
+
+## Conclusion
+This project demonstrates how audio features can reveal meaningful patterns in genre behavior, artist performance, and listener engagement. The dashboards provide a foundation for recommendation systems, playlist strategy, and broader music‑industry insights.
+
+
+## Data Source
+The dataset is based on Spotify audio features and metadata. It includes metrics such as popularity, acousticness, loudness, liveness, danceability, and track duration.
 
 The dashboards demonstrate how measurable audio attributes can inform data‑driven decisions in music‑focused projects.
 
