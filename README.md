@@ -5,6 +5,9 @@ This project explores Spotify music data to understand how genres and artists di
 # Executive Summary
 The analysis highlights clear distinctions in how genres and artists perform across multiple audio metrics. Popularity, acousticness, loudness, and liveness vary significantly between genres, while artists show strong differences in total track duration, danceability, and listener engagement. These insights can support recommendation systems, content strategy, and broader music‑industry decision‑making.
 
+# Why this Project Matters
+This project goes beyond visualising audio features—it demonstrates how data can shape real decisions in the music‑streaming ecosystem. By analysing patterns in popularity, loudness, acousticness, liveness, and danceability, the dashboards reveal how listeners interact with different genres and artists. These insights can inform playlist design, marketing strategies, recommendation‑model features, and broader industry trends. The work shows your ability to combine technical analysis with domain understanding, turning raw audio metrics into meaningful, actionable insights.
+
 # Dashboard Insights
 ## 🔥 Popularity in Genres
 Some genres consistently attract higher listener engagement, indicating strong audience preference clusters. These patterns can guide playlist curation, targeted marketing, and genre‑specific promotional strategies.
@@ -79,6 +82,19 @@ Tooltips, colour coding, and chart layouts are designed to make comparisons intu
 * Build a machine‑learning model using audio features
 * Add sentiment analysis from lyrics (if dataset available)
 * Include time‑series analysis to track genre trends over time
+
+# Tools Used
+- Tableau  
+The primary tool for building the dashboards. Tableau was used to design interactive visualisations, apply filters and colour‑coding, and combine multiple charts into cohesive layouts that highlight genre and artist patterns. It enabled fast exploration of audio features and clear communication of insights.
+
+- Excel / CSV Files  
+Used for initial inspection and light formatting of the raw dataset. These files served as the bridge between data collection and Tableau visualisation.
+
+- GitHub  
+Hosted the project repository, including documentation and dashboard files. It provides transparency, version control, and a professional space to showcase your workflow.
+
+- Google Sites  
+Used to present the project in a clean, accessible format. The dashboards, summaries, and insights are displayed in a way that’s easy for viewers to navigate and understand.
 
 # Conclusion
 This project demonstrates how audio features can reveal meaningful patterns in genre behaviour, artist performance, and listener engagement. The dashboards provide a strong foundation for recommendation systems, playlist strategy, and broader music‑industry insights. By combining visual analytics with domain understanding, this work showcases how data can shape strategic decisions in the streaming ecosystem.
